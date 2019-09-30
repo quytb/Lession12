@@ -1,1 +1,3 @@
 this is develop
+
+Them tinh nang lay du lieu
